@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckPos</string>
+    <string name="kontakt_io_api_key">BPKllrZIMblQtxnWqVHXnrZscdKGFBRd</string>
+    <string name="button_text">Find my location</string>
+    <string name="db_interface_button_text">Open DB Interface</string>
+    <string name="info_beacon_text">No nearby Beacons</string>
+</resources>
